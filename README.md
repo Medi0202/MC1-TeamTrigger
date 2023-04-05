@@ -24,7 +24,7 @@ Team Trigger
 
 2023.03.24 - 2023.03.31ß
 
-## 앱 화면
+## 📱 앱 화면
 
 ![screenshot_collage](https://user-images.githubusercontent.com/104806801/229973025-7d555130-2db7-4781-aac7-ab76b77693b2.png)
 
