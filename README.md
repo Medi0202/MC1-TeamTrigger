@@ -1,4 +1,4 @@
-# ✈️  K-구찌의 우당탕탕 LA 여행기
+# ✈️  K-구찌의 우당탕탕 LA 여행기 (👷공사중)
 
 ## 우리의 첫 CBL 이야기
 Apple Developer Academy @ Postech
