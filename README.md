@@ -26,7 +26,8 @@ Team Trigger
 
 ## 앱 화면
 
-/Users/sunjooim/Downloads/screenshot_collage.png
+![screenshot_collage](https://user-images.githubusercontent.com/104806801/229973025-7d555130-2db7-4781-aac7-ab76b77693b2.png)
+
 
 
 
