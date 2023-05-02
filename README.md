@@ -15,8 +15,7 @@ Team Trigger
 
 검머외 4명 + 노머외 1명 + 한국인 1명
 
-| Column 1  | Column 2  | Column 3  | <img width="406" alt="meditator" src="https://user-images.githubusercontent.com/104806801/235701859-684b7708-e89e-487a-b7a6-1d6b84a66c3b.png">
-  | ![미모지_1](https://user-images.githubusercontent.com/104806801/235701050-924f002e-4e41-40e9-a82d-7642a4a161e3.png)  | Column 6  |
+| Column 1  | Column 2  | Column 3  | <img width="406" alt="meditator" src="https://user-images.githubusercontent.com/104806801/235701859-684b7708-e89e-487a-b7a6-1d6b84a66c3b.png"> | ![미모지_1](https://user-images.githubusercontent.com/104806801/235701050-924f002e-4e41-40e9-a82d-7642a4a161e3.png)  | Column 6  |
 |:----------|:----------|:----------|:----------|:----------|:----------|
 | [김유빈(Yubin)](https://github.com/up-ub)    | 김혜린(Molly)    | [남승오(Seng)](https://github.com/skatmddh)    | [윤재호(Marcus)](https://github.com/Medi0202)    | [임선주(Sun)](https://github.com/snnzzoo)    | [장영진(Gucci)](https://github.com/Damagucci-Juice)    |
 
