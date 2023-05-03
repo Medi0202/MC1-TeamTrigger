@@ -1,9 +1,11 @@
 # ✈️  K-구찌의 우당탕탕 LA 여행기 (👷공사중)
-
+  
+  
 ## 우리의 첫 CBL 이야기
 🍏 Apple Developer Academy @ Postech
 
-Mini Challenge 1
+Mini Challenge 1 
+
 
 ![mc1](https://user-images.githubusercontent.com/104806801/229969630-29d9590d-cd7a-4954-a0c0-4db9db16a584.gif)
 
@@ -14,8 +16,10 @@ Mini Challenge 1
 > 이것도 해야하고 저것도 해야할 것 같은데, 자꾸 이렇게 놀러 다녀도 되는거야?
 > 
 > 과연 K-구찌의 운명은???
->
+>  
 
+  
+  
 ## 🔫 우리가 누구?
 
 Team Trigger
@@ -26,11 +30,15 @@ Team Trigger
 |:----------|:----------|:----------|:----------|:----------|:----------|
 | [김유빈(Yubin)](https://github.com/up-ub)    | [김혜린(Molly)](https://github.com/hyelinkim)    | [남승오(Seng)](https://github.com/skatmddh)    | [윤재호(Marcus)](https://github.com/Medi0202)    | [임선주(Sun)](https://github.com/snnzzoo)    | [장영진(Gucci)](https://github.com/Damagucci-Juice)    |
 
-
+  
+  
 ## 📅 프로젝트 기간
 
-2023.03.24 - 2023.03.31ß
+2023.03.24 - 2023.03.31  
 
+
+  
+  
 ## 📱 앱 화면
 
 ![screenshot_collage](https://user-images.githubusercontent.com/104806801/229973025-7d555130-2db7-4781-aac7-ab76b77693b2.png)
