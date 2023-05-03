@@ -17,7 +17,7 @@ Team Trigger
 
 | <img width="329" alt="꽃받침" src="https://user-images.githubusercontent.com/104806801/235702647-6d7dbb5b-1550-4ce5-bf75-c8764acf2858.png"> |![KakaoTalk_Photo_2023-05-03-10-46-09](https://user-images.githubusercontent.com/104806801/235819103-7967a945-72dd-4693-b81b-6658ac14e051.png) | <img width="351" alt="memoji" src="https://user-images.githubusercontent.com/104806801/235702446-6a424820-72b5-404c-824d-9748fa1f2416.png">| <img width="406" alt="meditator" src="https://user-images.githubusercontent.com/104806801/235701859-684b7708-e89e-487a-b7a6-1d6b84a66c3b.png"> | ![미모지_1](https://user-images.githubusercontent.com/104806801/235701050-924f002e-4e41-40e9-a82d-7642a4a161e3.png)  | <img width="237" alt="memoji" src="https://user-images.githubusercontent.com/104806801/235703453-72883dbb-db98-4efb-b4a7-62ceb2dfd753.png">  |
 |:----------|:----------|:----------|:----------|:----------|:----------|
-| [김유빈(Yubin)](https://github.com/up-ub)    | 김혜린(Molly)    | [남승오(Seng)](https://github.com/skatmddh)    | [윤재호(Marcus)](https://github.com/Medi0202)    | [임선주(Sun)](https://github.com/snnzzoo)    | [장영진(Gucci)](https://github.com/Damagucci-Juice)    |
+| [김유빈(Yubin)](https://github.com/up-ub)    | [김혜린(Molly)](https://github.com/hyelinkim)    | [남승오(Seng)](https://github.com/skatmddh)    | [윤재호(Marcus)](https://github.com/Medi0202)    | [임선주(Sun)](https://github.com/snnzzoo)    | [장영진(Gucci)](https://github.com/Damagucci-Juice)    |
 
 
 ## 📅 프로젝트 기간
