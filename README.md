@@ -19,7 +19,7 @@ Mini Challenge 1
 >  
 
   
-  
+<br><br>
 ## 🔫 우리가 누구?
 
 Team Trigger
@@ -31,14 +31,14 @@ Team Trigger
 | [김유빈(Yubin)](https://github.com/up-ub)    | [김혜린(Molly)](https://github.com/hyelinkim)    | [남승오(Seng)](https://github.com/skatmddh)    | [윤재호(Marcus)](https://github.com/Medi0202)    | [임선주(Sun)](https://github.com/snnzzoo)    | [장영진(Gucci)](https://github.com/Damagucci-Juice)    |
 
   
-  
+<br><br> 
 ## 📅 프로젝트 기간
 
 2023.03.24 - 2023.03.31  
 
 
   
-  
+<br><br>  
 ## 📱 앱 화면
 
 ![screenshot_collage](https://user-images.githubusercontent.com/104806801/229973025-7d555130-2db7-4781-aac7-ab76b77693b2.png)
