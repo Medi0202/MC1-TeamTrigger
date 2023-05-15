@@ -20,6 +20,7 @@ Mini Challenge 1
 
   
 <br>
+
 ## 🔫 우리가 누구?
 
 Team Trigger
@@ -39,6 +40,7 @@ Team Trigger
 
   
 <br>
+
 ## 📱 앱 화면
 
 ![screenshot_collage](https://user-images.githubusercontent.com/104806801/229973025-7d555130-2db7-4781-aac7-ab76b77693b2.png)
